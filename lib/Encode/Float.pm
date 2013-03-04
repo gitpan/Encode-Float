@@ -5,7 +5,7 @@ BEGIN
 {
 	use Exporter ();
 	use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
-	$VERSION     = '0.10';
+	$VERSION     = '0.11';
 	@ISA         = qw(Exporter);
 	@EXPORT      = qw();
 	@EXPORT_OK   = qw();
@@ -232,7 +232,7 @@ sub getRelativeDifference
 Use L<CPAN> to install the module and all its prerequisites:
 
   perl -MCPAN -e shell
-  >install Text::Corpus::Summaries::Wikipedia
+  >install Encode::Float
 
 =head1 BUGS
 

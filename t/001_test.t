@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-use Data::Dump qw(dump);
 use Test::More tests => 7;
 
 BEGIN { use_ok( 'Encode::Float' ); }

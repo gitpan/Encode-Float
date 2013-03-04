@@ -57,7 +57,7 @@ INSTALLATION
     Use CPAN to install the module and all its prerequisites:
 
       perl -MCPAN -e shell
-      >install Text::Corpus::Summaries::Wikipedia
+      >install Encode::Float
 
 BUGS
     Please email bugs reports or feature requests to
